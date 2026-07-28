@@ -1,4 +1,4 @@
-# MaqueiroSimulator
+# Maqueiro Simulator
 
 Este é o meu primeiro projeto em Python! Criei este programa para simular o dia a dia de um maqueiro dentro de um hospital.
 
